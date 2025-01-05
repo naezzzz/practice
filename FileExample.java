@@ -48,6 +48,8 @@ public class FileExample {
 		} catch(IOException e) {
 			e.printStackTrace();
 		}
+		
+		System.out.println("추가된 부분");
 
 	}
 
